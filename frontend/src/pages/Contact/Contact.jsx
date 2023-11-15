@@ -49,7 +49,7 @@ const Contact = () => {
   </div>
   <div className="app__footer-card">
     <img src={mobile} alt="phone" />
-    <a href="tel:+91 8273847842" className="p-text">+91 8273847842</a>
+    <a href="tel:+1 (888)-490-6341" className="p-text">+1 (888)-490-6341</a>
   </div>
 </div>
 {!isFormSubmitted ? ( 
